@@ -118,3 +118,9 @@ Customization
 
     Game Assets: Replace images in the imgs/ directory to change the game's visual style.
     NEAT Settings: Tune values in config_feedforward.txt to control learning behavior.
+
+## Conclusion
+
+This project demonstrates how the NEAT algorithm can be used to train an AI to play Flappy Bird. By evolving neural networks over generations, the AI progressively learns to navigate through pipes and score higher. Feel free to experiment with different configurations to observe various learning behaviors.
+
+Enjoy watching your AI master Flappy Bird! 🐦🎮
